@@ -21,7 +21,7 @@
 
 **2. 25501 - 재귀의 귀재**
 * 🗓 2022-11-15
-* 🔗 [velog.io](링크)
+* 🔗 [velog.io](https://velog.io/@joch2712/%EB%B0%B1%EC%A4%80-25501%EB%B2%88-%EC%9E%AC%EA%B7%80%EC%9D%98-%EA%B7%80%EC%9E%AC)
 * 난이도 : 🫠
 
 <br> 
