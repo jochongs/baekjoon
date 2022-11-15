@@ -49,6 +49,9 @@ void sort(int* arr, int p, int r){
 }
 
 void mergeSort(int* arr, int p, int r){
+    if(r <= p + 1){
+        sort(arr, p, r);
+    }
     if(p < r){
         mergeSort(arr, p, (p + r) / 2); //왼쪽 배열
         mergeSort(arr, (p + r) / 2 + 1, r); //오른쪽 배열
