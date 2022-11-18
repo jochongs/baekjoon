@@ -17,9 +17,12 @@ void hanoi(int plateNumber, int fromColumn, int subColumn, int toColumn){
 int main(){
     int plateNumber = 0;
     cin >> plateNumber;
+
     string moveCount = to_string(pow(2, plateNumber));
+
     moveCount = moveCount.substr(0,moveCount.find('.'));
     moveCount[moveCount.length() - 1] -= 1;
+    
     cout << moveCount << endl;
     if(plateNumber <= 20){
         hanoi(plateNumber,1,2,3);
