@@ -1,4 +1,4 @@
-# 📚 자료구조 공부
+### 📚 자료구조 공부
 
 
 ![image](https://user-images.githubusercontent.com/54374610/201656670-66cc11ae-1ffd-4aa4-8c63-a8803d385eef.png)
